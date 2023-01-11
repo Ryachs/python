@@ -1,7 +1,7 @@
 ### Lists ###
 
-# listas: list('reinaldo','chavez')
-# tuplas: tuple['reinaldo', 'chavez']
+# listas: list['reinaldo','chavez']
+# tuplas: tuple('reinaldo', 'chavez')
 # diccionarios: dics{'reinaldo','chavez'}
 # estos tipos de datos son similares !pero no son los mismos! 
 # !!! cambian sus metodos y las acciones que permiten !!!!  
