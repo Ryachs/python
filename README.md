@@ -1,1 +1,1 @@
-curso de python basico para repasar y entender este lenguaje de programacion
+Codigos de python basicos para repasar y entender este lenguaje de programacion
