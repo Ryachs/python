@@ -1,4 +1,4 @@
-### conditional ###
+### Conditional ###
 
 my_condition = True
 if my_condition:
